@@ -1,4 +1,4 @@
-# AndroidGridtest-app_Bug_Report
+# Android test-app_Bug_Report
 
 ID | Title | Precondition|  STR |AR| ER| Severity| Priority | Environment | Attachments |
 |----|----|----|----|----|----|----|----|----|----|
