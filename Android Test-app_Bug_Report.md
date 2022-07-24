@@ -1,5 +1,6 @@
 # Android test-app_Bug_Report
 
+
 ID | Title | Precondition|  STR |AR| ER| Severity| Priority | Environment | Attachments |
 |----|----|----|----|----|----|----|----|----|----|
 |1| Title: Widget width is not changed in any size | Install App | 1. Open app <br/> 2. Tap the "Add Widget" button <br/> 3. Tap on the widget, start resizing the width | Width not changed. The widget boundary returns to the starting point | Width is changed | High |  Medium | 1)Xiaomi Redmi 9, Android 11 RP1A.200720.011, MIUI Global 12.5.5 Stable <br/> Redmi Note 10, Android 12 SKQ1.210908.001, MIUI Global 13.0.7  |[Photo](https://drive.google.com/drive/folders/1auUQTD8q76JoQEZuZKxnnEP3fFugUM75?hl=ru) |
